@@ -1,7 +1,7 @@
 
 # Personal Finance Dashboard
 
----
+
 
 A React application for tracking income, expenses, and savings goals, featuring interactive charts and theme customization.
 
