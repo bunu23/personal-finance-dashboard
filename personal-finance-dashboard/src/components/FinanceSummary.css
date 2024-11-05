@@ -1,0 +1,27 @@
+
+.finance-summary {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.summary-details {
+  flex: 1;
+}
+
+.chart-container {
+  width: 100%;
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+@media (max-width: 768px) {
+  .finance-summary {
+    flex-direction: column;
+  }
+
+  .chart-container {
+    max-width: 100%;
+  }
+}
