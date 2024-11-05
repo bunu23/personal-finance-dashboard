@@ -13,9 +13,9 @@ A React application for tracking income, expenses, and savings goals, featuring 
 
 ## Screenshots
 
-![](personal-finance-dashboard/src/images/dashboard.png)
+<img src="personal-finance-dashboard/src/images/dashboard.png" alt="Dashboard Screenshot" width="600" />
+<img src="personal-finance-dashboard/src/images/transaction.png" alt="Transaction Screenshot" width="600" />
 
-![](personal-finance-dashboard/src/images/transaction.png)
 
 ## Technologies Used
 
