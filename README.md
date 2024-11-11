@@ -3,11 +3,3 @@
 <img src="personal-finance-dashboard/src/images/transaction.png" alt="Transaction Screenshot" width="600" />
 
 ---
-
-## Technologies Used
-
-- **React**
-- **Material-UI**
-- **Chart.js**
-- **JavaScript (ES6)**
-
